@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your  text
+Welcome to my first project!!!
 Use the lefr arrow to go back!
